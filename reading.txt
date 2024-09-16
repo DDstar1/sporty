@@ -1,0 +1,3 @@
+body > app-root > app-disconnect-message
+
+https://aviator-demo.spribegaming.com/?currency=USD&operator=demo&jurisdiction=CW&lang=EN&return_url=https:%2F%2Fspribe.co%2Fgames&user=69637&token=pkKZPe6FmWikBfRJn4fODWMv9y1bDFu0
